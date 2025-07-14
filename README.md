@@ -1,5 +1,7 @@
 **📩 AI 詐騙簡訊偵測器**
 
+<img width="1920" height="934" alt="image" src="https://github.com/user-attachments/assets/4305105a-2918-4206-a7cb-8690fdf553a9" />
+
 使用 Multinomial Naive Bayes 模型訓練超過 100 萬筆簡訊資料，建立即時分類器，幫助使用者辨別「正常簡訊」與「詐騙簡訊」。結合 Streamlit 製作互動式網頁工具，支援即時預測、視覺化報表與信心分數顯示。
 
 ---
