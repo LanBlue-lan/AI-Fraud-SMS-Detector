@@ -107,3 +107,39 @@ ________________________________________
 ✅ 顯示結果：Spam / Ham（含信心分數）
 
 ________________________________________
+
+**結果**
+
+1.先選擇模型
+
+ <img width="1920" height="882" alt="螢幕擷取畫面 2025-07-22 082608" src="https://github.com/user-attachments/assets/2929bbb0-1713-46bc-97ff-47c52b70e3bf" />
+
+
+2.在按 “ 訓練模型 ” 
+
+<img width="743" height="358" alt="螢幕擷取畫面 2025-07-22 082619" src="https://github.com/user-attachments/assets/0e0cca9e-858e-478e-9456-84e861ed2f24" />
+
+
+3.輸入簡訊的內容，在按” 開始分析 ”，分析完，就會有預測結果的信心分數。
+
+<img width="756" height="270" alt="螢幕擷取畫面 2025-07-22 082645" src="https://github.com/user-attachments/assets/0a6963c1-64e0-488b-8bfb-6d467db9342b" />
+
+ 
+4.接下來，顯示完整評估報告也就是數據圖。
+
+<img width="706" height="578" alt="螢幕擷取畫面 2025-07-22 082706" src="https://github.com/user-attachments/assets/f5cff303-05c3-42eb-a473-ff13b3a7846c" />
+
+<img width="700" height="763" alt="螢幕擷取畫面 2025-07-22 082714" src="https://github.com/user-attachments/assets/2375cb69-093a-4174-8daa-fc89b280acff" />
+
+<img width="700" height="599" alt="螢幕擷取畫面 2025-07-22 082725" src="https://github.com/user-attachments/assets/09a52db0-e4cb-468d-851d-a944dca05611" />
+
+<img width="696" height="598" alt="螢幕擷取畫面 2025-07-22 082731" src="https://github.com/user-attachments/assets/b4b479f2-8d48-40e9-bb0f-94e46dfd8ce9" />
+
+<img width="692" height="610" alt="螢幕擷取畫面 2025-07-22 082740" src="https://github.com/user-attachments/assets/8e6ccbc8-a160-42c1-bda9-1454db496d94" /> 
+    
+
+**「mAP顯示不出來，代表類別太少」**
+ 
+ <img width="689" height="121" alt="螢幕擷取畫面 2025-07-22 082745" src="https://github.com/user-attachments/assets/c1f63f8c-9035-4577-9304-e6cab661f103" />
+
+
